@@ -1,0 +1,34 @@
+/* Paging Class CSS By Prakash - spabhat (on yahoo / gmail / skype) */
+
+/*Style 1*/
+.SPA_PgS1{height:25px; }
+.SPA_PgS1 ul{display:inline;}
+.SPA_PgS1 li{  display:block; background:#F7F7F7; float:left; height:25px; width:25px; border:1px solid #ccc; text-align:center;}
+.SPA_PgS1 a {color:#333333;background:#CCC;margin:1px;padding-top:4px;display:block;height:19px; width:23px;font-weight:bold; font-size:13px; text-decoration:none; }
+.SPA_PgS1 a:hover{background:#CC6600; color:#FFFFFF}
+.SPA_PgS1 .selected{background:#FF9900;color:#333}
+.SPA_PgS1 .selected a{background:#666;color:#FFFFFF}
+
+/*Style 2*/
+.SPA_PgS2 {height:25px; display:block; }
+.SPA_PgS2 ul{display:inline;}
+.SPA_PgS2 li{  display:block; background:#F7F7F7; float:left; height:25px; width:25px; border:1px solid #ccc; text-align:center;}
+.SPA_PgS2 a {color:#333333;padding-top:5px;display:block;height:20px; width:25px; font-weight:bold; font-size:13px; text-decoration:none; }
+.SPA_PgS2 a:hover{background:#666; color:#FFFFFF}
+.SPA_PgS2 .selected a{background:#CC6600;color:#FFFFFF;}
+
+/*Style 3*/
+.SPA_PgS3 {height:25px; display:block; }
+.SPA_PgS3 ul{display:inline;}
+.SPA_PgS3 li{  display:block; background:#F7F7F7; float:left; height:25px; width:25px; text-align:center;}
+.SPA_PgS3 a {color:#333333;padding-top:5px;display:block;height:20px; width:25px; font-weight:bold; font-size:13px; text-decoration:none; }
+.SPA_PgS3 a:hover{background:#666; color:#FFFFFF}
+.SPA_PgS3 .selected a{background:#CC6600;color:#FFFFFF;}
+
+/*Style 4*/
+.SPA_PgS4 {height:25px; display:block; }
+.SPA_PgS4 ul{display:inline;}
+.SPA_PgS4 li{  display:block; float:left; height:25px; width:25px; text-align:center;}
+.SPA_PgS4 a {padding-top:5px;display:block;height:20px; width:25px; font-weight:bold; font-size:13px; text-decoration:none;}
+.SPA_PgS4 a:hover{}
+.SPA_PgS4 .selected a{color:#000; text-decoration:underline;}
